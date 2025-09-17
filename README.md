@@ -24,6 +24,4 @@
 4. 按下 F5 即可執行遊戲
 
 ## 畫面呈現
-
-
-
+![level1_gif](https://github.com/user-attachments/assets/00fd552f-cc9e-4401-96ed-a9a90cf86c7a)
